@@ -1,0 +1,10 @@
+{
+  "dataset_name": {
+      "root": "dataset root file path for all pictures",
+      "annotation": "./data_annotations_example.jsonl",
+      "data_augment": true,
+      "repeat_time": 10,
+      "length": 5,
+      "task": "vqa_attributes"
+  }
+}
