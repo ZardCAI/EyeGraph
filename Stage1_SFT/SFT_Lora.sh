@@ -65,10 +65,3 @@ torchrun \
   --deepspeed "zero_stage1_config.json" \
   --report_to "tensorboard" \
   2>&1 | tee -a "${OUTPUT_DIR}/training_log.txt"
-
-# PARTITION='your partition' GPUS=16 sh shell/phi3_3_8b_dynamic/internvl_chat_v1_5_phi3_3_8b_dynamic_res_finetune.sh
-# --eval_path "/data2/renyw/PythonWorkspace/InternVL/internvl_chat/shell/data/data_eyepacs_dr_eval.json" \
-# --evaluation_strategy "steps" \
-# --eval_steps 1500 \
-# --load_best_model_at_end True\
-# --metric_for_best_model "eval_loss"\
