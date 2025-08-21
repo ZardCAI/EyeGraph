@@ -2,7 +2,7 @@
 
 ### Online Demo
 
-We have developed an online platform using Gradio that integrates all functionalities, including a basic chatbot Q&A and G2T reasoning for report generation. You can access and experience it at http://61.164.208.242:7860/gradio/. Additionally, we provide a video demo demonstrating the workflow on the platform.
+We have developed an online platform using Gradio that integrates all functionalities, including a basic chatbot Q&A and G2T reasoning for report generation. You can access and experience it at http://61.164.208.242:7860/gradio/. Additionally, we provide a video demo demonstrating the workflow on the platform. You can find in `img` directory `online_demo.mp4`
 
 <video src="./img/online_demo.mp4"></video>
 
