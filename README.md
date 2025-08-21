@@ -4,15 +4,15 @@
 
 We have developed an online platform using Gradio that integrates all functionalities, including a basic chatbot Q&A and G2T reasoning for report generation. You can access and experience it at http://61.164.208.242:7860/gradio/. Additionally, we provide a video demo demonstrating the workflow on the platform.
 
-<video src="/Users/evelynryw/Desktop/EyeGraph/img/online_demo.mp4"></video>
+<video src="./img/online_demo.mp4"></video>
 
 ### Pipeline
 
-![pipeline](/Users/evelynryw/Desktop/EyeGraph/img/pipeline.jpg)
+![pipeline](./img/pipeline.jpg)
 
 ### **Data**
 
-![datasets](/Users/evelynryw/Desktop/EyeGraph/img/datasets.png)
+![datasets](./img/datasets.png)
 Our study utilizes a diverse array of retinal image datasets encompassing various pathologies and imaging modalities. These datasets support multiple tasks, including classification, detection, localization, and caption generation, reflecting their origins from a variety of sources, such as public datasets, competitions, and extractions from textbooks. The public datasets we used are list in following tables.
 
 <table>
@@ -69,7 +69,7 @@ We propose an innovative G2T reasoning paradigm that integrates a Graph of Thoug
 
 > The GIF below demonstrates a sample of the dynamic graph exploration process.
 
-![g2t_graph](/Users/evelynryw/Desktop/EyeGraph/img/g2t_graph.gif)
+![g2t_graph](./img/g2t_graph.gif)
 
 ### Acknowledgements
 
